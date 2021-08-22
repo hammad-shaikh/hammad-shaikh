@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hammad-shaikh
+- 👋 Hi, I’m Hammad Shaikh
 - 👀 I’m interested in Physics, Coding and Designing
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Research Projects
